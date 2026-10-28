@@ -1,0 +1,6 @@
+sequence,spacecraft_id,mission,status
+10,SC-A1,Asteria Mapping,ACTIVE
+20,SC-B2,Borealis Weather,ACTIVE
+30,SC-C3,Cygnus Relay,INACTIVE
+40,SC-D4,Daedalus Survey,ACTIVE
+50,SC-E5,Equinox Demo,ACTIVE
