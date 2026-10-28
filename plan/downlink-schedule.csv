@@ -1,0 +1,5 @@
+station,start_utc,end_utc,request_id,spacecraft_id,mission,priority,duration_min
+NORTH,2026-11-05T09:00Z,2026-11-05T09:20Z,DL-101,SC-A1,Asteria Mapping,5,20
+SOUTH,2026-11-05T09:10Z,2026-11-05T09:20Z,DL-103,SC-B2,Borealis Weather,3,10
+EAST,2026-11-05T09:20Z,2026-11-05T09:35Z,DL-114,SC-A1,Asteria Mapping,4,15
+NORTH,2026-11-05T09:20Z,2026-11-05T09:30Z,DL-105,SC-D4,Daedalus Survey,5,10
